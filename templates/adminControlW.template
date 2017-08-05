@@ -1,0 +1,97 @@
+<?php
+    if (($prepTime == 0) && ($warTime != 0)) {
+        $time = "<label style='font-family: Clash; width: 100%;' class='label label-primary'>$warTime</label>";
+    } elseif ($warTime == 0) {
+        $time = "<label style='font-family: Clash; width: 100%;' class='label label-danger'>War has started!</label>";
+    } else {
+        $time = "<label style='font-family: Clash; width: 100%;' class='label label-primary'>$prepTime</label>";
+    }
+
+    if (isset($_POST['timer-set'])) {
+        if (isset($_POST['timer-time'])) {
+            $offset = $_POST['timer-time'];
+        }
+    }
+?>
+<div class='row'>
+    <div class='col-md-12'>
+        <div class='box box-danger'>
+            <div class='box-header with-border'>
+                <i class='fa fa-cog'></i>
+                <h3 class='box-title'>Control Panel</h3>
+            </div>
+            <div class='box-body'>
+                <div class='row'>
+                    <div class='col-md-6'>
+                        <div class='box box-warning'>
+                            <div class='box-header with-border'>
+                                Admin Controls
+                            </div>
+                            <div class='box-body'>
+                                <form method='POST'>
+                                    <div class='form-group'>
+                                        <label for='timer-time' class='col-sm-3 control-label'>Hour Offset: </label>
+                                        <div class='col-sm-9'>
+                                            <select class="form-control" name="timer-time" id="timer-time">
+                                                <option value='-5'>-5</option>
+                                                <option value='-4'>-4</option>
+                                                <option value='-3'>-3</option>
+                                                <option value='-2'>-2</option>
+                                                <option value='-1'>-1</option>
+                                                <option value='0'>0</option>
+                                                <option value='1'>1</option>
+                                                <option value='2'>2</option>
+                                                <option value='3'>3</option>
+                                                <option value='4'>4</option>
+                                                <option value='5'>5</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <br><br><br>
+                                    <button name="timer-set" class="form-control btn btn-primary" type="submit">Set Time</button>
+                                    
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                    <div class='col-md-6'>
+                        <div class='box box-warning'>
+                            <div class='box-header with-border'>
+                                Mini Accounts
+                            </div>
+                            <div class='box-body'>
+                                <div style='margin: 16px;'>
+                                    <ol>
+                                    <?php
+                                        if ($GoldenData->count('miniacc', ["ownerTag" => $_SESSION['userTag']]) > 0) {
+                                            foreach ($GoldenData->select('miniacc', "*", ['ownerTag' => $_SESSION['userTag']]) as $mini) {
+                                                echo "<li>";
+                                                    echo $mini['playerName'];
+                                                echo "</li>";
+                                            }
+                                        } else {
+                                            echo "<li>No Mini Account</li>";
+                                        }
+                                    ?>
+                                    </ol>
+                                    <hr>
+                                    <form method='POST' class='form-horizontal'>
+                                        <div class='box-body'>
+                                            <div class='form-group'>
+                                                <label for='miniPlayerTag' class='col-sm-3 control-label'>Player Tag:</label>
+                                                <div class='col-sm-9'>
+                                                    <input type='text' class='form-control' id='miniPlayerTag' name='miniPlayerTag' placeholder='#'>
+                                                </div>
+                                            </div>
+                                            <button class='btn btn-primary' type='submit' name='addMini'>Add Mini</button>
+                                        </div>
+                                    </form>
+                                </div>
+                            </body>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

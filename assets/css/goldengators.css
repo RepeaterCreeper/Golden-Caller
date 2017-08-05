@@ -1,0 +1,38 @@
+@font-face {
+    font-family: Clash;
+    src: url('https://clashofclans.com/fonts/supercell-magic.woff');
+}
+
+#logo-text {
+    font-family: Clash;
+}
+
+.num {
+    width: 61px;
+    height: 40px;
+    float: left;
+    line-height: 40px;
+    text-align: center;
+    margin-right: 0;
+}
+
+.num.gold {
+    background: url(assets/img/symbol-sprite.png) no-repeat 0 -1142px;
+}
+
+.num.silver {
+    background: url(assets/img/symbol-sprite.png) no-repeat -61px -1142px;
+}
+
+.num.bronze {
+    background: url(assets/img/symbol-sprite.png) no-repeat -122px -1142px;
+}
+
+.btn-primary.outline {
+    border: 2px solid #0099cc;
+    color: #0099cc;
+}
+
+.btn.outline {
+    background: none;
+}

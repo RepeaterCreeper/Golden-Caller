@@ -1,0 +1,68 @@
+<div class='row'>
+    <div class='col-md-12'>
+        <div class='box box-danger'>
+            <div class='box-header with-border'>
+                <i class='fa fa-cog'></i>
+                <h3 class='box-title'>Control Panel</h3>
+            </div>
+            <div class='box-body'>
+                <div class='row'>
+                    <div class='col-md-6'>
+                        <form method='post' class='form-horizontal'>
+                            <div class='box-body'>
+                                <div class='form-group'>
+                                    <label for='enemyTag' class='col-sm-3 control-label'>Enemy Name</label>
+
+                                    <div class='col-sm-9'>
+                                        <input type='text' class='form-control' name='enemyName' id='enemyName' placeholder='OPTIONAL [API DOWN]'>
+                                    </div>
+                                </div>
+                                <div class='form-group'>
+                                    <label for='enemyTag' class='col-sm-3 control-label'>Enemy Tag</label>
+
+                                    <div class='col-sm-9'>
+                                        <input type='text' class='form-control' name='enemyTag' id='enemyTag' placeholder='#' required>
+                                    </div>
+                                </div>
+                                <div class='form-group'>
+                                    <label for='warSize' class='col-sm-3 control-label'>War Size</label>
+
+                                    <div class='col-sm-9'>
+                                        <select class='form-control' id='warSize' name='warSize' required>
+                                            <option value='50' selected>50 vs 50</option>
+                                            <option value='40'>40 vs 40</option>
+                                            <option value='30'>30 vs 30</option>
+                                            <option value='25'>25 vs 25</option>
+                                            <option value='20'>20 vs 20</option>
+                                            <option value='15'>15 vs 15</option>
+                                            <option value='10'>10 vs 10</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class='form-group'>
+                                    <label for='timerSettings' class='col-sm-3 control-label'>Timer</label>
+
+                                    <div class='col-sm-9'>
+                                        <select class='form-control' id='timerSettings' name='timerSettings' required>
+                                            <option value='1'>1 hour</option>
+                                            <option value='2'>2 hours</option>
+                                            <option value='3' selected>3 hours</option>
+                                            <option value='4'>4 hours</option>
+                                            <option value='5'>5 hours</option>
+                                            <option value='6'>6 hours</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- /.box-body -->
+                            <div class='box-footer'>
+                                <button name='startWar' type='submit' class='col-md-12 btn btn-success'>Start War</button>
+                            </div>
+                        <!-- /.box-footer -->
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

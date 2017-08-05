@@ -1,0 +1,25 @@
+[08-Jul-2016 19:43:52 America/New_York] PHP Warning:  require_once(API.class.php): failed to open stream: No such file or directory in /home/chompgtr/public_html/caller/requests/historicalData.php on line 2
+[08-Jul-2016 19:43:52 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'API.class.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/chompgtr/public_html/caller/requests/historicalData.php on line 2
+[09-Jul-2016 22:21:13 America/New_York] PHP Notice:  Undefined index: userTag in /home/chompgtr/public_html/caller/requests/api.php on line 36
+[09-Jul-2016 22:21:13 America/New_York] PHP Notice:  Undefined index: userTag in /home/chompgtr/public_html/caller/requests/api.php on line 37
+[09-Jul-2016 23:17:11 America/New_York] PHP Notice:  Undefined index: userTag in /home/chompgtr/public_html/caller/requests/api.php on line 36
+[09-Jul-2016 23:17:11 America/New_York] PHP Notice:  Undefined index: userTag in /home/chompgtr/public_html/caller/requests/api.php on line 37
+[09-Jul-2016 23:17:12 America/New_York] PHP Notice:  Undefined index: userTag in /home/chompgtr/public_html/caller/requests/api.php on line 36
+[09-Jul-2016 23:17:12 America/New_York] PHP Notice:  Undefined index: userTag in /home/chompgtr/public_html/caller/requests/api.php on line 37
+[09-Jul-2016 23:17:30 America/New_York] PHP Notice:  Undefined index: userTag in /home/chompgtr/public_html/caller/requests/api.php on line 165
+[09-Jul-2016 23:17:30 America/New_York] PHP Notice:  Undefined index: userTag in /home/chompgtr/public_html/caller/requests/api.php on line 165
+[09-Jul-2016 23:17:30 America/New_York] PHP Notice:  Undefined index: userTag in /home/chompgtr/public_html/caller/requests/api.php on line 165
+[09-Jul-2016 23:17:30 America/New_York] PHP Fatal error:  Call to undefined function alert() in /home/chompgtr/public_html/caller/requests/api.php on line 166
+[09-Jul-2016 23:34:24 America/New_York] PHP Notice:  Undefined index: userTag in /home/chompgtr/public_html/caller/requests/api.php on line 165
+[09-Jul-2016 23:34:24 America/New_York] PHP Notice:  Undefined index: userTag in /home/chompgtr/public_html/caller/requests/api.php on line 165
+[09-Jul-2016 23:34:24 America/New_York] PHP Notice:  Undefined index: userTag in /home/chompgtr/public_html/caller/requests/api.php on line 165
+[09-Jul-2016 23:34:24 America/New_York] PHP Fatal error:  Call to undefined function alert() in /home/chompgtr/public_html/caller/requests/api.php on line 166
+[10-Jul-2016 00:39:09 America/New_York] PHP Notice:  Undefined index: userTag in /home/chompgtr/public_html/caller/requests/api.php on line 165
+[10-Jul-2016 00:39:09 America/New_York] PHP Notice:  Undefined index: userTag in /home/chompgtr/public_html/caller/requests/api.php on line 165
+[10-Jul-2016 00:39:09 America/New_York] PHP Notice:  Undefined index: userTag in /home/chompgtr/public_html/caller/requests/api.php on line 165
+[10-Jul-2016 00:39:09 America/New_York] PHP Fatal error:  Call to undefined function alert() in /home/chompgtr/public_html/caller/requests/api.php on line 166
+[10-Jul-2016 00:39:12 America/New_York] PHP Notice:  Undefined index: userTag in /home/chompgtr/public_html/caller/requests/api.php on line 165
+[10-Jul-2016 00:39:12 America/New_York] PHP Notice:  Undefined index: userTag in /home/chompgtr/public_html/caller/requests/api.php on line 165
+[10-Jul-2016 00:39:12 America/New_York] PHP Notice:  Undefined index: userTag in /home/chompgtr/public_html/caller/requests/api.php on line 165
+[10-Jul-2016 00:39:12 America/New_York] PHP Fatal error:  Call to undefined function alert() in /home/chompgtr/public_html/caller/requests/api.php on line 166
+[10-Jul-2016 01:02:43 America/New_York] PHP Fatal error:  Call to undefined function alert() in /home/chompgtr/public_html/caller/requests/api.php on line 166

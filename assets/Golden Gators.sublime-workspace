@@ -1,0 +1,1384 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"expirat",
+				"expirationData"
+			],
+			[
+				"border-radius",
+				"border-top-left-radius"
+			],
+			[
+				"target",
+				"target"
+			],
+			[
+				"glbo",
+				"globalStart"
+			],
+			[
+				"prep",
+				"prepCountdownEnd"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"caller",
+				"callerUsername"
+			],
+			[
+				"p",
+				"pID"
+			],
+			[
+				"backto",
+				"backToReg"
+			],
+			[
+				"login",
+				"loginForm"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"sess",
+				"_SESSION"
+			],
+			[
+				"gol",
+				"GoldenGators"
+			],
+			[
+				"new",
+				"new_stars_value"
+			],
+			[
+				"stars",
+				"starsUpdate"
+			],
+			[
+				"call",
+				"callNum"
+			],
+			[
+				"data",
+				"data-reactid"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"timecount",
+				"timecountdownstart"
+			],
+			[
+				"time",
+				"timecountdownend"
+			],
+			[
+				"last",
+				"lastSyncDatetime"
+			],
+			[
+				"timecountd",
+				"timecountdownend"
+			],
+			[
+				"current",
+				"current_user_id"
+			],
+			[
+				"uid",
+				"uid_signature"
+			],
+			[
+				"to",
+				"todo"
+			],
+			[
+				"gethost",
+				"gethostbyname"
+			],
+			[
+				"password",
+				"passwordHash"
+			],
+			[
+				"passo",
+				"passwordNew"
+			],
+			[
+				"pass",
+				"passwordCurrent"
+			],
+			[
+				"message",
+				"MessageMSG"
+			],
+			[
+				"Messa",
+				"MessageFROM"
+			],
+			[
+				"Message",
+				"MessageSUBJECT"
+			],
+			[
+				"status",
+				"statusResult"
+			],
+			[
+				"ftWar",
+				"ftWarStars2"
+			],
+			[
+				"field",
+				"field_name"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"user",
+				"userClan"
+			],
+			[
+				"kingdom",
+				"kingdomInterest"
+			],
+			[
+				"session",
+				"session_destroy"
+			],
+			[
+				"why",
+				"whyjoin"
+			],
+			[
+				"attack",
+				"attackStrategy"
+			],
+			[
+				"Godlen",
+				"GoldenLeaderboard"
+			],
+			[
+				"Golden",
+				"GoldenLeaderboard"
+			],
+			[
+				"match",
+				"matchLeagueClass"
+			],
+			[
+				"TITAN",
+				"TITAN_III"
+			],
+			[
+				"CHA",
+				"CHAMPION_I"
+			],
+			[
+				"CHAMPI",
+				"CHAMPION_III"
+			],
+			[
+				"MAST",
+				"MASTER_III"
+			],
+			[
+				"CRYSTAL",
+				"CRYSTAL_I"
+			],
+			[
+				"GOLD_",
+				"GOLD_III"
+			],
+			[
+				"SILVER_",
+				"SILVER_II"
+			],
+			[
+				"SILVER",
+				"SILVER_III"
+			],
+			[
+				"BRON",
+				"BRONZE_II"
+			],
+			[
+				"player",
+				"playerDetail"
+			],
+			[
+				"record",
+				"recordWarStars"
+			],
+			[
+				"glboal",
+				"globalID"
+			],
+			[
+				"getPlaye",
+				"getPlayerDetail"
+			],
+			[
+				"Golde",
+				"GoldenGators"
+			],
+			[
+				"wall",
+				"wallbreakers"
+			],
+			[
+				"air",
+				"airDefenseWeight"
+			],
+			[
+				"wizard",
+				"wizardBWeight"
+			],
+			[
+				"archer",
+				"archerBWeight"
+			],
+			[
+				"jsn",
+				"json_encode"
+			],
+			[
+				"townh",
+				"townhallLevel"
+			],
+			[
+				"previous",
+				"previousClan"
+			],
+			[
+				"profile",
+				"profilePicture"
+			],
+			[
+				"base64",
+				"base64_encode"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"goldwk",
+				"goldwkwz_goldengators"
+			],
+			[
+				"substr_",
+				"substr_replace"
+			],
+			[
+				"fas",
+				"fa-star-o"
+			],
+			[
+				"golden",
+				"GoldenLeaderboard"
+			],
+			[
+				"GoldenLeaderb",
+				"GoldenLeaderboardData"
+			],
+			[
+				"copy",
+				"copyText"
+			],
+			[
+				"memberUsn",
+				"memberUsernameSU"
+			],
+			[
+				"memberPass",
+				"memberPasswordSU"
+			],
+			[
+				"memberUsername",
+				"memberUsernameSU"
+			],
+			[
+				"googlePl",
+				"googlePlayCode"
+			],
+			[
+				"googl",
+				"googlePlayCode"
+			],
+			[
+				"getClan",
+				"getClanInfo"
+			],
+			[
+				"clanT",
+				"clanTagArray"
+			],
+			[
+				"type",
+				"typeArray"
+			],
+			[
+				"playerName",
+				"playerNameArray"
+			],
+			[
+				"ki",
+				"kingdomMembers"
+			],
+			[
+				"unset",
+				"session_unset"
+			],
+			[
+				"google",
+				"googlePlay"
+			],
+			[
+				"database",
+				"database_name"
+			],
+			[
+				"admin",
+				"adminUsername"
+			],
+			[
+				"clan",
+				"clanMembers"
+			],
+			[
+				"rank",
+				"radius_demangle_mppe_key"
+			],
+			[
+				"app",
+				"app_id"
+			],
+			[
+				"name",
+				"nameAgree"
+			],
+			[
+				"noti",
+				"notificationBody"
+			],
+			[
+				"Godle",
+				"GoldenGators"
+			],
+			[
+				"query",
+				"queryURL"
+			],
+			[
+				"kingdo",
+				"kingdomTag"
+			],
+			[
+				"kingd",
+				"kingdomName"
+			],
+			[
+				"passwo",
+				"passwordConfirm"
+			],
+			[
+				"infractio",
+				"infractionPassword"
+			],
+			[
+				"war",
+				"warOptions"
+			],
+			[
+				"emal",
+				"emailUsername"
+			],
+			[
+				"getPlayer",
+				"getPlayerDetails"
+			],
+			[
+				"infraction",
+				"infractionPlayer"
+			],
+			[
+				"enemy",
+				"enemyTagId"
+			],
+			[
+				"eme",
+				"enemyClan"
+			],
+			[
+				"enem",
+				"enemyTagId"
+			],
+			[
+				"inWar",
+				"inWarCount"
+			],
+			[
+				"Gole",
+				"GoldenGators"
+			],
+			[
+				"session_d",
+				"session_destroy"
+			],
+			[
+				"callNum",
+				"callNumber"
+			],
+			[
+				"cn",
+				"cName"
+			],
+			[
+				"clanData",
+				"clanDataDecoded"
+			],
+			[
+				"playes",
+				"playersCount"
+			],
+			[
+				"id",
+				"IDCHARS"
+			],
+			[
+				"troop",
+				"troopsDonated"
+			],
+			[
+				"received",
+				"receivedTroops"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"outlin",
+				"outline-color"
+			],
+			[
+				"error_",
+				"error_reporting"
+			],
+			[
+				"search",
+				"searchPlayer"
+			],
+			[
+				"king",
+				"kingdomImage"
+			],
+			[
+				"beta",
+				"betaFile"
+			],
+			[
+				"help",
+				"helpFile"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"imgScale",
+				"imgScaleY"
+			],
+			[
+				"imgScal",
+				"imgScaleY"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "newData.php",
+			"settings":
+			{
+				"buffer_size": 469,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/Golden Caller/index.php",
+			"settings":
+			{
+				"buffer_size": 13332,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/Golden Caller/[CLEAN]/DELTA/assets/class/goldendata.php",
+			"settings":
+			{
+				"buffer_size": 526,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/Golden Caller/pages/caller.inc",
+			"settings":
+			{
+				"buffer_size": 14621,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "savecall.php",
+			"settings":
+			{
+				"buffer_size": 3597,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/Golden Caller/playerentry.php",
+			"settings":
+			{
+				"buffer_size": 3211,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/Golden Caller/pages/home.inc",
+			"settings":
+			{
+				"buffer_size": 19333,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<div style='margin: 16px;' class='row'>\n	<div class='box box-primary'>\n		<div class='box-header'>\n			<h6 style='font-family: Clash'>April 6, 2016 18:41:00</h6>\n			<small>Golden Caller v1.0.7</small>\n		</div>\n		<div class='box-body'>\n			<ul style='margin-left: 16px;'>\n				<li><label class='label label-warning'>[FIXED]</label> TH Designation SELECT</li>\n				<li><label class='label label-warning'>[FIXED]</label> Incorrect Calling Logic causing 'Already called' or '2 Entries'.</li>\n				<li><label class='label label-warning'>[FIXED]</label> Calling causes 'DELETE', 'SET STAR', and more to not work.</li>\n				<li><label class='label label-warning'>[FIXED]</label> Timer variables were incorrect causing incorrect expiration.</li>\n				<li><label class='label label-warning'>[FIXEd]</label> New call not displaying timer, and cannot be deleted without refresh.</li>\n				<br>\n				<li><label class='label label-success'>[IMPROVEMENT]</label> Settings stars is now displayed INSTANTLY.</li>\n			</ul> \n		</div>\n	</div>\n\n	<div class='box box-danger'>\n		<div class='box-header'>\n			<h6 style='font-family: Clash'>April 28, 2016 18:41:00</h6>\n			<small>Golden Caller v1.0.6 - MINOR</small>\n		</div>\n		<div class='box-body'>\n			<ul style='margin-left: 16px;'>\n				<li><label class='label label-primary'>[NEW]</label> Distinct 'prep day' and 'war day'</li>\n				<br>\n				<li><label class='label label-danger'>[REMOVED]</label> Timer causes failure in system.</li>\n			</ul>\n		</div>\n	</div>\n	<div class='box box-danger'>\n		<div class='box-header'>\n			<h6 style='font-family: Clash'>April 16, 2016 18:28:00</h6>\n			<small>Golden Caller v1.0.5</small>\n		</div>\n		<div class='box-body'>\n			<ul style='margin-left: 16px;'>\n				<li><label class='label label-primary'>[NEW]</label> Townhall Designation (IMAGE)</li>\n				<li><label class='label label-primary'>[NEW]</label> War Timer</li>\n				<br>\n				<li><label class='label label-warning'>[FIXED]</label> Infinite amount of calls</li>\n				<li><label class='label label-warning'>[FIXED]</label> Certain variables were not being used.</li>\n			</ul>\n		</div>\n	</div>\n	<div class='box box-danger'>\n		<div class='box-header'>\n			<h6 style='font-family: Clash'>April 14, 2016 18:28:00</h6>\n			<small>Golden Caller v1.0.4</small>\n		</div>\n		<div class='box-body'>\n			<ul style='margin-left: 16px;'>\n				<li><label class='label label-primary'>[NEW]</label> Login/Signup has been redesigned</li>\n				<li><label class='label label-primary'>[NEW]</label> Permissions has been added</li>\n				<br>\n				<li><label class='label label-success'>[IMPROVEMENT]</label> Pressing Delete call now closes the modal.</li>\n				<br>\n				<li><label class='label label-warning'>[FIXED]</label> Caller is now ordered by status ASCENDING.</li>\n				<li><label class='label label-warning'>[FIXED]</label> Notes now save</li>\n			</ul>\n		</div>\n	</div>\n\n	<div class='box box-danger'>\n		<div class='box-header'>\n			<h6 style='font-family: Clash'>April 07, 2016 19:48:00</h6>\n			<small>Golden Caller v1.0.3</small>\n		</div>\n		<div class='box-body'>\n			<ul style='margin-left: 16px;'>\n				<li><label class='label label-primary'>[NEW]</label> Synchronized calls. (No need to refresh.. updates every 5 seconds) [CONFIGURABLE]</li>\n				<li><label class='label label-primary'>[NEW]</label> Added 3 starred base indication (Red - 3 starred | Green - Has not been 3 starred)</li>\n				<li><label class='label label-primary'>[NEW]</label> Expired calls are no longer removed. They are just placed at back</li>\n				<li><label class='label label-primary'>[NEW]</label> Notes has been added</li>\n				<li><label class='label label-primary'>[NEW]</label> Stars has been added</li>\n				<li><label class='label label-primary'>[NEW]</label> Signup will only accept players in clan.</li>\n				<li><label class='label label-primary'>[NEW]</label> Icons to signify notes and/or infractions of player.</li>\n				<br>\n				<li><label class='label label-primary'>[NEW]</label> Changelog Page</li>\n				<br>\n				<li><label class='label label-success'>[IMPROVEMENT]</label> Refresh will now ONLY occur when changes are made.</li>\n			</ul>\n			<?php\n				Pushpad\\Pushpad::$auth_token = '74d05f18756a4ac4e17b69a92483d6f8';\n				Pushpad\\Pushpad::$project_id = 838; # set it here or pass it as a param to methods later\n			?>\n			<a href=\"<?= Pushpad\\Pushpad::path_for('28JVGV92L') ?>\">*</a>\n		</div>\n	</div>\n</div>",
+			"file": "/C/xampp/htdocs/Golden Caller/pages/changelog.inc",
+			"file_size": 4698,
+			"file_write_time": 131070536308243972,
+			"settings":
+			{
+				"buffer_size": 4374,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "package install",
+		"selected_items":
+		[
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"install paca",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs",
+		"/C/xampp/htdocs/Golden Caller",
+		"/C/xampp/htdocs/Golden Caller/assets",
+		"/C/xampp/htdocs/Golden Caller/assets/class",
+		"/C/xampp/htdocs/Golden Caller/pages"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/Golden Caller/assets/savecall.php",
+		"/C/xampp/htdocs/Golden Caller/assets/pEnter.php",
+		"/C/xampp/htdocs/Golden Caller/pages/caller.inc",
+		"/C/xampp/htdocs/Golden Caller/playerdetails.php",
+		"/C/xampp/htdocs/Golden Caller/playerentry",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-2/home.inc",
+		"/C/xampp/htdocs/Golden Caller/index.php",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-1/home.inc",
+		"/C/xampp/htdocs/Golden Caller/pages/home.inc",
+		"/C/xampp/htdocs/Golden Caller/assets/newData.php",
+		"/C/xampp/htdocs/Golden Caller/assets/class/goldengators.php",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-2/about-us.inc",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-1/caller.inc",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-1/savecall.php",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-2/caller.inc",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-2/goldengators.php",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-2/savecall.php",
+		"/C/xampp/htdocs/Golden Caller/assets/getExpiration.php",
+		"/C/xampp/htdocs/Golden Caller/assets/getExpiration",
+		"/C/xampp/htdocs/Golden Caller/pages/changelog.inc",
+		"/C/xampp/htdocs/Golden Caller/assets/class/goldendata.php",
+		"/C/xampp/htdocs/Golden Caller/assets/lifespan.php",
+		"/C/xampp/htdocs/Golden Caller/[CLEAN]/BACKUP/Golden Gators [ONLINE]/caller/index.php",
+		"/C/xampp/htdocs/Golden Caller/[CLEAN]/BACKUP/Golden Gators [ONLINE]/caller/assets/refresh.php",
+		"/C/xampp/htdocs/Golden Caller/assets/refresh.php",
+		"/C/xampp/htdocs/Golden Caller/[CLEAN]/BACKUP/Golden Gators [ONLINE]/index.php",
+		"/C/xampp/htdocs/Golden Caller/[CLEAN]/BACKUP/Golden Gators [ONLINE]/caller/pages/caller.inc",
+		"/C/xampp/htdocs/Golden Caller/assets/deletecall.php",
+		"/C/xampp/htdocs/Golden Caller/assets/saveperms.php",
+		"/C/xampp/htdocs/Golden Caller/assets/savenotes.php",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-2/playerdetails.php",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-2/playerResults.php",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-2/setresult.php",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-2/refresh.php",
+		"/C/xampp/htdocs/Clash-Link/assets/css/site.css",
+		"/C/xampp/htdocs/Clash-Link/assets/css/clashlink.css",
+		"/C/xampp/htdocs/giveaway.js",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-2/goldendata.php",
+		"/C/xampp/htdocs/Clash-Link/index.php",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-2/timer.js",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-1/designate.php",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/xampp/htdocs/Clash-Link/assets/css/bootflat.css",
+		"/C/xampp/htdocs/Golden Gators/index.html",
+		"/C/xampp/htdocs/Clash-Link/public/assets/css/clashlink.css",
+		"/C/xampp/htdocs/Clash-Link/resources/views/layouts/home.blade.php",
+		"/C/xampp/htdocs/Clash-Link/resources/views/home/index.blade.php",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-1/goldengators.php",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-1/changelog.inc",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-2/login.php",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-1/playerdetails.php",
+		"/C/xampp/htdocs/Golden Caller/BACKUP/Delta [04-28-2016]/assets/class/goldendata.php",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-1/goldendata.php",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-1/refresh.php",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-1/lifespan.php",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-1/playerResults.php",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-1/setresult.php",
+		"/C/xampp/htdocs/Clash-Link/app/Http/routes.php",
+		"/C/xampp/htdocs/Clash-Link/resources/views/home/about.blade.php",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-1/deletecall.php",
+		"/C/xampp/htdocs/Clash-Link/resources/views/layouts/about.blade.php",
+		"/C/xampp/htdocs/Clash-Link/resources/views/home/home.blade.php",
+		"/C/xampp/htdocs/Clash-Link/resources/views/layout.blade.php",
+		"/C/xampp/htdocs/Laravel/resources/views/layouts/app.blade.php",
+		"/C/xampp/htdocs/Laravel/config/auth.php",
+		"/C/xampp/htdocs/Laravel/app/Http/routes.php",
+		"/C/xampp/htdocs/Laravel/config/database.php",
+		"/C/xampp/htdocs/Laravel/app/Http/Controllers/Auth/AuthController.php",
+		"/C/xampp/htdocs/Laravel/.env",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-1/index 2.php",
+		"/C/xampp/htdocs/Laravel/gulpfile.js",
+		"/C/xampp/htdocs/Laravel/resources/views/GoldenGators/index.blade.php",
+		"/C/xampp/htdocs/Laravel/resources/views/GoldenGators.blade.php",
+		"/C/xampp/htdocs/Laravel/app/library/myFunctions.php",
+		"/C/xampp/htdocs/Laravel/composer.json",
+		"/C/xampp/htdocs/Laravel/app/Helpers/myFunctions.php",
+		"/C/xampp/htdocs/Laravel/package.json",
+		"/C/xampp/htdocs/Laravel/app/application-lib/myFunctions.php",
+		"/C/xampp/htdocs/Laravel/bootstrap/autoload.php",
+		"/C/xampp/htdocs/Golden Gators/New folder/pages/home.inc",
+		"/C/xampp/htdocs/Golden Gators/New folder/index.php",
+		"/C/xampp/htdocs/Laravel/app/Http/Controllers/CardsController.php",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-1/login.php",
+		"/C/xampp/htdocs/Golden Caller/assets/designate.php",
+		"/C/xampp/htdocs/Golden Caller/BACKUP/Charlie [04-21-2016]/pages/home.inc",
+		"/C/xampp/htdocs/Laravel/app/Card.php",
+		"/C/xampp/htdocs/Laravel/resources/views/cards/card.blade.php",
+		"/C/xampp/htdocs/Laravel/app/Note.php",
+		"/C/xampp/htdocs/Laravel/database/migrations/2016_04_23_041621_create_notes_table.php",
+		"/C/xampp/htdocs/Laravel/resources/views/cards/index.blade.php",
+		"/C/xampp/htdocs/Laravel/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/Laravel/tests/TestCase.php",
+		"/C/xampp/htdocs/Laravel/resources/views/layout.blade.php",
+		"/C/xampp/htdocs/Laravel/database/migrations/2016_04_23_035456_create_cards_table.php",
+		"/C/xampp/htdocs/Golden Caller/BACKUP/Charlie [04-21-2016]/assets/class/goldendata.php",
+		"/C/xampp/htdocs/Golden Caller/BACKUP/Charlie [04-21-2016]/pages/caller.inc",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-1/error_log",
+		"/C/xampp/htdocs/Laravel/public/index.php",
+		"/C/xampp/htdocs/Laravel/public/.htaccess",
+		"/C/xampp/htdocs/Laravel/.htaccess",
+		"/C/xampp/htdocs/Laravel/app/Http/Controllers/CardController.php",
+		"/C/xampp/htdocs/Laravel/resources/views/cards/show.blade.php",
+		"/C/xampp/htdocs/Laravel/database/migrations/2016_04_22_041339_create_cards_table.php",
+		"/C/xampp/htdocs/Golden Caller/login.php",
+		"/C/xampp/htdocs/Laravel/bootstrap/app.php",
+		"/C/xampp/htdocs/Laravel/app/Http/Controllers/PagesController.php",
+		"/C/xampp/htdocs/Laravel/resources/views/pages/about.blade.php",
+		"/C/xampp/htdocs/Laravel/app/Http/pages/about.blade.php",
+		"/C/xampp/htdocs/Laravel/app/Http/pages/about.php",
+		"/C/xampp/htdocs/Golden Caller/Changelog.md",
+		"/C/xampp/htdocs/Golden Caller/assets/Golden Gators.sublime-project",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-1/clan-overview.inc",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-1/.viminfo",
+		"/C/Users/Joseph/Downloads/goldencaller (2).sql",
+		"/C/xampp/htdocs/Golden Caller/assets/fillData.php",
+		"/C/xampp/htdocs/Laravel Playground/server.php",
+		"/C/Users/Joseph/AppData/Roaming/Composer/vendor/laravel/installer/src/NewCommand.php",
+		"/C/xampp/htdocs/Golden Caller/notes",
+		"/C/xampp/htdocs/Golden Caller/math.php",
+		"/C/xampp/htdocs/Math",
+		"/C/xampp/htdocs/Golden Caller/pages/profile.inc",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-1/fillData.php",
+		"/C/xampp/htdocs/Golden Caller/BACKUP/Bravo/pages/caller.inc",
+		"/C/xampp/htdocs/Golden Caller/BACKUP/Alpha/pages/caller.inc",
+		"/C/Users/Joseph/AppData/Local/Temp/fz3temp-1/admin-creation.inc",
+		"/C/xampp/htdocs/Golden Caller/assets/js/scripts.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\Laravel",
+			"C:\\xampp\\htdocs\\Golden Caller",
+			"C:\\xampp\\htdocs\\Golden Caller\\assets\\bootstrap",
+			"C:\\xampp\\htdocs\\Golden Caller\\assets",
+			"C:\\xampp\\htdocs\\Golden Caller\\assets\\css",
+			"C:\\xampp\\htdocs\\Recruitment Center\\page",
+			"C:\\xampp\\htdocs\\Recruitment Center\\admin",
+			"C:\\xampp\\htdocs\\Recruitment Center",
+			"C:\\xampp\\htdocs\\ClashHub"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			"$caller",
+			"\"",
+			"postLogin",
+			"completel",
+			"\"status[!]\" => 'completel'",
+			"\"status\" => 'in war'",
+			"logout",
+			"\"",
+			".form",
+			"trigger",
+			".btn",
+			"btn",
+			"\"",
+			"1.jpg",
+			"background-image",
+			"Clash",
+			"setResult",
+			"\"",
+			"/assets",
+			"assets/",
+			"/assets",
+			"RCenter",
+			"/assets/",
+			"Sticky",
+			"/res/js",
+			"../dist/",
+			"ClanSeeker",
+			"include_path",
+			"passwordNew",
+			"clan",
+			"@activity",
+			"IN TRIALS",
+			"WAITING",
+			"NEW",
+			"new",
+			"IN NEW",
+			"IN TRIALS",
+			"TRIALS",
+			"\"",
+			" $",
+			"$RCenter",
+			"(\"admin\"",
+			"Virtual Host",
+			"GoldenData",
+			"\"",
+			"GoldenData",
+			"name",
+			"http",
+			"GoldenData",
+			"99VY9JR8",
+			"\"",
+			"'\". $thSrc .\"'",
+			"notifications",
+			"notification",
+			"92",
+			"$weight + ",
+			"/res/images/empty_avatar.png",
+			"skin-blue",
+			"skin",
+			"/*\n * Skin: Blue\n * ----------\n */\n.skin-blue .main-header .navbar {\n  background-color: #3c8dbc;\n}\n.skin-blue .main-header .navbar .nav > li > a {\n  color: #ffffff;\n}\n.skin-blue .main-header .navbar .nav > li > a:hover,\n.skin-blue .main-header .navbar .nav > li > a:active,\n.skin-blue .main-header .navbar .nav > li > a:focus,\n.skin-blue .main-header .navbar .nav .open > a,\n.skin-blue .main-header .navbar .nav .open > a:hover,\n.skin-blue .main-header .navbar .nav .open > a:focus,\n.skin-blue .main-header .navbar .nav > .active > a {\n  background: rgba(0, 0, 0, 0.1);\n  color: #f6f6f6;\n}\n.skin-blue .main-header .navbar .sidebar-toggle {\n  color: #ffffff;\n}\n.skin-blue .main-header .navbar .sidebar-toggle:hover {\n  color: #f6f6f6;\n  background: rgba(0, 0, 0, 0.1);\n}\n.skin-blue .main-header .navbar .sidebar-toggle {\n  color: #fff;\n}\n.skin-blue .main-header .navbar .sidebar-toggle:hover {\n  background-color: #367fa9;\n}\n@media (max-width: 767px) {\n  .skin-blue .main-header .navbar .dropdown-menu li.divider {\n    background-color: rgba(255, 255, 255, 0.1);\n  }\n  .skin-blue .main-header .navbar .dropdown-menu li a {\n    color: #fff;\n  }\n  .skin-blue .main-header .navbar .dropdown-menu li a:hover {\n    background: #367fa9;\n  }\n}\n.skin-blue .main-header .logo {\n  background-color: #367fa9;\n  color: #ffffff;\n  border-bottom: 0 solid transparent;\n}\n.skin-blue .main-header .logo:hover {\n  background-color: #357ca5;\n}\n.skin-blue .main-header li.user-header {\n  background-color: #3c8dbc;\n}\n.skin-blue .content-header {\n  background: transparent;\n}\n.skin-blue .wrapper,\n.skin-blue .main-sidebar,\n.skin-blue .left-side {\n  background-color: #222d32;\n}\n.skin-blue .user-panel > .info,\n.skin-blue .user-panel > .info > a {\n  color: #fff;\n}\n.skin-blue .sidebar-menu > li.header {\n  color: #4b646f;\n  background: #1a2226;\n}\n.skin-blue .sidebar-menu > li > a {\n  border-left: 3px solid transparent;\n}\n.skin-blue .sidebar-menu > li:hover > a,\n.skin-blue .sidebar-menu > li.active > a {\n  color: #ffffff;\n  background: #1e282c;\n  border-left-color: #3c8dbc;\n}\n.skin-blue .sidebar-menu > li > .treeview-menu {\n  margin: 0 1px;\n  background: #2c3b41;\n}\n.skin-blue .sidebar a {\n  color: #b8c7ce;\n}\n.skin-blue .sidebar a:hover {\n  text-decoration: none;\n}\n.skin-blue .treeview-menu > li > a {\n  color: #8aa4af;\n}\n.skin-blue .treeview-menu > li.active > a,\n.skin-blue .treeview-menu > li > a:hover {\n  color: #ffffff;\n}\n.skin-blue .sidebar-form {\n  border-radius: 3px;\n  border: 1px solid #374850;\n  margin: 10px 10px;\n}\n.skin-blue .sidebar-form input[type=\"text\"],\n.skin-blue .sidebar-form .btn {\n  box-shadow: none;\n  background-color: #374850;\n  border: 1px solid transparent;\n  height: 35px;\n  -webkit-transition: all 0.3s ease-in-out;\n  -o-transition: all 0.3s ease-in-out;\n  transition: all 0.3s ease-in-out;\n}\n.skin-blue .sidebar-form input[type=\"text\"] {\n  color: #666;\n  border-top-left-radius: 2px;\n  border-top-right-radius: 0;\n  border-bottom-right-radius: 0;\n  border-bottom-left-radius: 2px;\n}\n.skin-blue .sidebar-form input[type=\"text\"]:focus,\n.skin-blue .sidebar-form input[type=\"text\"]:focus + .input-group-btn .btn {\n  background-color: #fff;\n  color: #666;\n}\n.skin-blue .sidebar-form input[type=\"text\"]:focus + .input-group-btn .btn {\n  border-left-color: #fff;\n}\n.skin-blue .sidebar-form .btn {\n  color: #999;\n  border-top-left-radius: 0;\n  border-top-right-radius: 2px;\n  border-bottom-right-radius: 2px;\n  border-bottom-left-radius: 0;\n}\n.skin-blue.layout-top-nav .main-header > .logo {\n  background-color: #3c8dbc;\n  color: #ffffff;\n  border-bottom: 0 solid transparent;\n}\n.skin-blue.layout-top-nav .main-header > .logo:hover {\n  background-color: #3b8ab8;\n}",
+			"/res/images/empty_avatar.jpg",
+			"../../dist/img/user2-160x160.jpg",
+			"\"",
+			"GoldenLeaderboardData",
+			"\"",
+			"12",
+			"img",
+			"res",
+			"button",
+			"tested/",
+			"navbar",
+			"@media(min-width:",
+			".nav",
+			"nav",
+			"navbar",
+			"navbar-toggle",
+			"min-width",
+			"media(min-width:768px)",
+			"min-width:768px",
+			".collapse",
+			".navbar-brand",
+			"@media",
+			"array(",
+			"]",
+			"[",
+			";\n",
+			"bindle",
+			"loginUser",
+			"lg",
+			"emerald",
+			"Twitch",
+			"emerald",
+			"images//",
+			"images",
+			"images/",
+			"images",
+			"js/",
+			"css/",
+			"twitter",
+			".twitter",
+			"twitter",
+			"icon-twitter",
+			"70",
+			"\");\n",
+			"\"",
+			"Golden Gators",
+			"Black Badgers",
+			"Golden Gators",
+			"Type",
+			"www.example.com",
+			"\"*\")",
+			"matchHeight",
+			"email_login",
+			"login",
+			"\"login\"",
+			"'login'",
+			"login",
+			"body >",
+			"body > .container",
+			"user-panel",
+			"res/img/",
+			";'><",
+			"dist",
+			"clanMembers",
+			"ClanInfo",
+			"PlayerData",
+			"clanInfo"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"'",
+			"complete",
+			"\"status[!]\" => 'complete'",
+			"\"status[!]\" => 'completel'",
+			"\"status[!]\" => 'complete'",
+			"'",
+			"playerResult",
+			"'",
+			"assets",
+			"assets/",
+			"GCaller",
+			"assets/",
+			"/res/img",
+			"/res/",
+			"ClanFetch",
+			"NEW",
+			"IN TRIALS",
+			"NEW",
+			"'",
+			"$GoldenData",
+			"(\"admins\"",
+			"RCenter",
+			"'",
+			"RCenter",
+			"GoldenLeaderboard",
+			"'",
+			"\"http://vignette1.wikia.nocookie.net/clashofclans/images/7/75/Town_Hall7.png/revision/latest/scale-to-width-down/500?cb=20130217185534\"",
+			"",
+			"/res/images/RepeaterCreeper.png",
+			"skin-asphalt",
+			"/res/images/empty_avatar.png",
+			"/res/images/empty_avatar.jpg",
+			"'",
+			"GoldenData",
+			"'",
+			"",
+			"media(min-width:1200px)",
+			"",
+			"res/images/",
+			"res/js/",
+			"res/css/",
+			"'",
+			"Blue Bearcats",
+			"Black Badgers",
+			"Green Goats",
+			"Golden Gators",
+			"Blue Bearcats"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "newData.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								469,
+								469
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/Golden Caller/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11841,
+								11435
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3134.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/Golden Caller/[CLEAN]/DELTA/assets/class/goldendata.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 526,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/xampp/htdocs/Golden Caller/pages/caller.inc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14621,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12386,
+								12386
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2962.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "savecall.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3594,
+								3594
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/xampp/htdocs/Golden Caller/playerentry.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3085,
+								3085
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/xampp/htdocs/Golden Caller/pages/home.inc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15346,
+								15346
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3945.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/xampp/htdocs/Golden Caller/pages/changelog.inc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								986,
+								272
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": false
+						},
+						"translation.x": 15.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Golden Gators.sublime-project",
+	"replace":
+	{
+		"height": 63.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"config/auth.php",
+				"Laravel\\config\\auth.php"
+			],
+			[
+				"note.php",
+				"Laravel\\app\\Note.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"15":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"16":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"17":
+				{
+					"group": 0,
+					"index": 2
+				},
+				"18":
+				{
+					"group": 0,
+					"index": 3
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,22 @@
+Options +FollowSymLinks -MultiViews
+
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+
+# Dynamic
+# EX: RewriteRule ^profile/([^/]+)$ index.php?page=profile&name=$1 [NC,L,QSA]
+# RewriteRule ^profile/([^/]+)$ index.php?page=profile&name=$1 [NC,L,QSA]
+# Actions
+RewriteRule ^logout$ index.php?logout [NC,L]
+
+# Pages Redirect
+RewriteRule ^home$ index.php?page=home [NC,L,QSA]
+RewriteRule ^profile$ index.php?page=profile [NC,L,QSA]
+RewriteRule ^caller$ index.php?page=caller [NC,L,QSA]
+RewriteRule ^changelog$ index.php?page=changelog [NC,L,QSA]
+RewriteRule ^leaderboard$ index.php?page=leaderboard [NC,L,QSA]
+
+RewriteRule ^login$ login.php [NC,L]
